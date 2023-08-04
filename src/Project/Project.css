@@ -1,0 +1,1041 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Gloria+Hallelujah&family=Indie+Flower&display=swap');
+
+/*--------------------------------------------------------------------Navbar--------------------------------------------------------------------*/
+.navigate {
+    position: relative;
+    box-shadow: 0px 0px 11px;
+}
+
+#logo {
+    height: 3.111rem;
+    width: 14.556rem;
+    position: relative;
+    margin-left: 2.778rem;
+    margin-top: 0.3rem;
+}
+
+#LogIn {
+    position: relative;
+    margin-left: 72rem;
+    font-size: 1.3125rem;
+    margin-top: -2.969rem;
+    color: #ffffff;
+}
+
+#Cart {
+    position: relative;
+    margin-left: 51.667rem;
+    font-size: 1.4rem;
+    margin-top: -3.2rem;
+    color: #ffffff;
+}
+
+#Wishlist {
+    position: relative;
+    margin-left: 59.5rem;
+    font-size: 1.4rem;
+    margin-top: -3.1rem;
+    color: white;
+}
+
+#Signin {
+    position: relative;
+    margin-left: 68.667rem;
+    font-size: 1.4rem;
+    margin-top: -3.1rem;
+    color: #ffffff;
+}
+
+/* #Home {
+    position: relative;
+    margin-left: 13.333rem;
+    font-size: 1.1875rem;
+    margin-top: 0.375rem;
+    color: white;
+    text-decoration: none;
+} */
+
+#drop-h {
+    margin-left: 40rem;
+    margin-top: -1.2rem;
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+#drop-h1 {
+    /* margin-left: 40rem;
+    margin-top: -1.2rem;
+    color: white; */
+    text-decoration: none;
+    /* font-size: 1.5rem; */
+}
+
+#nav-tot {
+    margin-top: 1.5rem;
+    margin-left: -1rem;
+}
+
+.nav-item {
+    text-decoration: none;
+    text-align: right;
+    font-size: 1rem;
+    margin-top: 0;
+    list-style-type: none;
+}
+
+.Navbar {
+    background-color: #97afcf;
+    margin-top: 0;
+    height: 3.625rem;
+    display: flex;
+    position: relative;
+}
+
+.dropdownadjst {
+    display: flex;
+    margin-top: 1.775rem;
+    margin-left: -1.375rem;
+    position: relative;
+}
+
+.dropdown-item.active {
+    background-color: #dfdfe0;
+}
+
+#dropnavadjst {
+    margin-left: 8.5rem;
+    margin-top: -1.2rem;
+    position: relative;
+}
+
+.nav-item {
+    text-decoration: none;
+    text-align: right;
+    font-size: 1rem;
+    margin-top: 0;
+    position: relative;
+}
+
+.d-flex {
+    margin-left: 9.5rem;
+    width: 46rem;
+    position: relative;
+    margin-top: -2.6875rem;
+}
+
+#C-H {
+    height: 15rem;
+    width: 15rem;
+    margin-left: 5rem;
+    margin-top: 3rem;
+    border-radius: 0.4rem;
+}
+
+#C-H:hover {
+    box-shadow: 3px 2px 6px 1px rgb(148, 115, 115);
+}
+
+#F-H {
+    height: 15rem;
+    width: 15rem;
+    margin-left: 25rem;
+    margin-top: -13.5rem;
+    border-radius: 0.4rem;
+}
+
+#F-H:hover {
+    box-shadow: 3px 2px 6px 1px rgb(148, 115, 115);
+}
+
+/*--------------------------------------------------------------------Home--------------------------------------------------------------------*/
+
+.carousel {
+    position: relative;
+    margin-left: -0.01rem;
+}
+
+.carousel-inner {
+    position: relative;
+    margin-top: -4.22rem;
+    height: 23.2rem;
+    margin-bottom: 1.62rem;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+}
+
+#carousel-i {
+    height: 26.46rem;
+    position: relative;
+    margin-bottom: 1.62rem;
+}
+
+.card {
+    width: 16.25rem;
+    height: 26.94rem;
+    margin-left: 2.43rem;
+    margin-top: 1.43rem;
+    display: inline-flex;
+    padding: 0.5rem;
+    position: relative;
+}
+
+.card:hover {
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+    border-radius: 0.1rem;
+}
+
+#button1 {
+    width: 2.03rem;
+    color: #ffffff;
+    background-color: #62a356;
+    border-color: transparent;
+    margin-left: -0.57rem;
+    position: relative;
+    border-radius: 0.06rem;
+}
+
+#button2 {
+    width: 2.03rem;
+    color: #ffffff;
+    background-color: #62a356;
+    border-color: transparent;
+    margin-left: -0.57rem;
+    margin-top: 0.39rem;
+    position: relative;
+    border-radius: 0.06rem;
+}
+
+#icon {
+    height: 2.5rem;
+    width: 2.5rem;
+    position: relative;
+}
+
+#home-b {
+    height: 14.13rem;
+    width: 40.14rem;
+    margin-left: 6.9rem;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+    margin-top: 1.6rem;
+}
+
+#home-c {
+    height: 14.13rem;
+    width: 41.14rem;
+    margin-top: -15.94rem;
+    margin-left: 50.2rem;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+}
+
+#home-d {
+    height: 14.13rem;
+    width: 14.14rem;
+    margin-left: 7rem;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+}
+
+#home-d-button {
+    height: 4rem;
+    width: 14.14rem;
+    margin-top: 0rem;
+    margin-left: 7rem;
+    background-color: white;
+    border: transparent;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+}
+
+#home-e {
+    height: 14.13rem;
+    width: 14.14rem;
+    margin-left: 77.2rem;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+    margin-top: -24rem;
+}
+
+#home-e-button {
+    height: 4rem;
+    width: 14.14rem;
+    margin-top: 0rem;
+    margin-left: 77.2rem;
+    background-color: white;
+    border: transparent;
+    box-shadow: 0px 0.13rem 0.91rem -0.19rem;
+}
+
+#style {
+    background-color: #f2f2f2;
+    margin-top: 3rem;
+    height: 17.4rem;
+}
+
+#search2 {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-left: 20rem;
+    width: 34.6rem;
+    height: 2.5rem;
+    border-radius: 0.4rem;
+    margin-top: -3rem;
+    position: absolute;
+}
+
+#filter {
+    margin-left: 83.8rem;
+    height: 2rem;
+    margin-top: 0.2rem;
+    border: transparent;
+}
+
+/*--------------------------------------------------------------------Footer--------------------------------------------------------------------*/
+
+.footer {
+    background-color: #f2f2f2;
+    position: relative;
+}
+
+.head {
+    font-size: 1.25rem;
+    position: relative;
+    font-weight: 500;
+    margin-left: 3.875rem;
+    color: #212529;
+    padding-top: 2.9375rem;
+    margin-top: 12vh;
+}
+
+.body {
+    margin-left: 3.875rem;
+    margin-top: 1.3125rem;
+    margin-right: 3.875rem;
+    position: relative;
+}
+
+.box {
+    background-color: black;
+    height: 0.125rem;
+    width: 90.6rem;
+    margin-left: 2.4375rem;
+    margin-top: 1.25rem;
+    border-radius: 3.5rem;
+    position: relative;
+}
+
+.icon1 {
+    font-size: 3.75rem;
+    margin-left: 14.5625rem;
+    margin-top: 1.9rem;
+    position: relative;
+}
+
+#one {
+    margin-left: 2.5rem;
+    margin-bottom: 1rem;
+    position: relative;
+}
+
+#sub1 {
+    font-size: 0.9375rem;
+    margin-left: -1.0625rem;
+    margin-top: -0.125rem;
+    position: relative;
+}
+
+.icon2 {
+    font-size: 3.75rem;
+    margin-left: 40.40625rem;
+    margin-top: -10.1rem;
+    position: relative;
+    position: relative;
+}
+
+#two {
+    margin-left: 3.125rem;
+    margin-bottom: 0.6875rem;
+    position: relative;
+}
+
+#sub2 {
+    font-size: 0.9375rem;
+    margin-left: -2.0625rem;
+    margin-top: -0.125rem;
+    position: relative;
+}
+
+#h {
+    margin-left: -1.625rem;
+    position: relative;
+}
+
+.icon3 {
+    font-size: 3.75rem;
+    margin-left: 68.0625rem;
+    margin-top: -10.375rem;
+    position: relative;
+}
+
+#three {
+    margin-left: 2.5rem;
+    margin-bottom: 0.6875rem;
+    position: relative;
+}
+
+#sub3 {
+    font-size: 0.9375rem;
+    margin-left: -3.375rem;
+    margin-top: -0.125rem;
+    position: relative;
+}
+
+.box1 {
+    background-color: black;
+    height: 0.125rem;
+    width: 90.6rem;
+    margin-left: 2.4375rem;
+    margin-top: 1.25rem;
+    border-radius: 3.5rem;
+    position: relative;
+}
+
+.policy {
+    position: relative;
+    margin-left: -3rem;
+}
+
+.company {
+    position: relative;
+    margin-left: 1.875rem;
+}
+
+.business {
+    position: relative;
+    margin-left: 1.875rem;
+}
+
+#drop {
+    margin-left: 2rem;
+    position: relative;
+}
+
+.f1 {
+    display: inline-flex;
+    position: relative;
+    margin-left: 13.125rem;
+    margin-top: 3.75rem;
+    position: relative;
+}
+
+#list {
+    list-style-type: none;
+    position: relative;
+}
+
+.style_subscribe {
+    position: relative;
+    margin-left: 3.75rem;
+    height: 1.2rem;
+}
+
+.style_subscribe2 {
+    position: relative;
+    margin-left: 15rem;
+}
+
+.subscribeBtn1 {
+    position: relative;
+    border-radius: 0.3125rem;
+    background: orange;
+    color: white;
+    height: 2.8rem;
+    margin-left: 1.0625rem;
+}
+
+.subscribeSuccesfull {
+    position: relative;
+    margin-left: 15.0625rem;
+}
+
+#sub {
+    position: relative;
+    border: transparent;
+    height: 2.9rem;
+    width: 16.0625rem;
+    border-radius: 0.5rem;
+}
+
+#sublogo {
+    position: relative;
+    margin-left: 9.8125rem;
+    color: rgb(138 136 136);
+    font-size: 3.75rem;
+    margin-right: 1.25rem;
+    margin-bottom: 0.25rem;
+}
+
+.box2 {
+    background-color: #272727;
+    height: 3.4375rem;
+    padding-top: 1rem;
+    position: relative;
+}
+
+#span {
+    color: white;
+    margin-top: 1.25rem;
+    margin-left: 5.375rem;
+    position: relative;
+}
+
+#span2 {
+    color: white;
+    margin-left: 14.6875rem;
+    position: relative;
+}
+
+#foot1 {
+    color: #ffffff;
+    font-size: 1.625rem;
+    margin-left: 1.125rem;
+    position: relative;
+}
+
+#foot2 {
+    color: #ffffff;
+    font-size: 1.625rem;
+    margin-left: 1.125rem;
+    position: relative;
+}
+
+#foot3 {
+    color: #ffffff;
+    font-size: 1.625rem;
+    margin-left: 1.125rem;
+    position: relative;
+}
+
+#foot4 {
+    color: #ffffff;
+    font-size: 1.625rem;
+    margin-left: 1.125rem;
+    position: relative;
+}
+
+
+/*--------------------------------------------------------------------Log In / Sign In--------------------------------------------------------------------*/
+
+.Login {
+    width: 35.625rem;
+    margin-top: -30.625rem;
+    margin-left: 19.75rem;
+    position: relative;
+    padding-top: 2.375rem;
+}
+
+.Form {
+    border: 1.25rem;
+    width: 42.75rem;
+    margin-left: 27.5rem;
+    border-radius: 0rem;
+    height: 25.125rem;
+    position: relative;
+}
+
+#fp1 {
+    text-decoration: none;
+    color: #050605;
+    margin-left: 18.8125rem;
+    position: relative;
+}
+
+#fp2 {
+    margin-left: 0.75rem;
+    text-decoration: none;
+    position: relative;
+}
+
+#log2 {
+    margin-left: 19rem;
+    margin-top: -2.5rem;
+    position: relative;
+    color: #000000;
+}
+
+#p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 8rem;
+}
+
+#sign-l {
+    margin-top: 5rem;
+}
+
+#log {
+    color: #ffffff;
+    text-decoration: none;
+    position: relative;
+}
+
+.button1 {
+    text-decoration: none;
+    background-color: #1274eb;
+    border-radius: 0.25rem;
+    color: white;
+    margin-left: 0rem;
+    font-size: 1.125rem;
+    height: 1.9375rem;
+    width: 35.5rem;
+    position: relative;
+}
+
+.button2 {
+    text-decoration: none;
+    background-color: #1a8504;
+    border-radius: 0.25rem;
+    color: white;
+    margin-left: 0.1rem;
+    font-size: 1.125rem;
+    height: 1.9375rem;
+    width: 35.5rem;
+    position: relative;
+}
+
+#logfoot {
+    margin-top: 1.25rem;
+    position: relative;
+}
+
+#forgot {
+    height: 25rem;
+    margin-left: 23rem;
+    width: 24rem;
+    margin-top: 8rem;
+    margin-bottom: 13rem;
+}
+
+#forgot-f {
+    margin-left: 51rem;
+    margin-top: -32rem;
+    margin-bottom: 9rem;
+    width: 2rem;
+}
+
+#forgot1 {
+    font-size: 2.5rem;
+}
+
+#forgot-i {
+    width: 21rem;
+    height: 4rem;
+    border-radius: 0.5rem;
+}
+
+#forgot-b {
+    width: 21rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    background-color: #bebebe;
+}
+
+/*--------------------------------------------------------Sihn Up------------------------------------------------*/
+.LoginS {
+    width: 35.625rem;
+    margin-top: 9.375rem;
+    margin-left: 3.75rem;
+    position: relative;
+    padding-top: 2.375rem;
+}
+
+.FormS {
+    margin-left: 45rem;
+    margin-top: -45.3rem;
+}
+
+#firstNameS {
+    height: 2.8rem;
+    border-radius: 0.2rem;
+}
+
+#lastNameS {
+    height: 2.8rem;
+    border-radius: 0.2rem;
+}
+
+#emailS {
+    height: 2.8rem;
+    border-radius: 0.2rem;
+}
+
+#passwordS {
+    height: 2.8rem;
+    border-radius: 0.2rem;
+}
+
+#fp1S {
+    text-decoration: none;
+    color: #050605;
+    margin-left: 18.8125rem;
+    position: relative;
+}
+
+#fp2S {
+    margin-left: 0.75rem;
+    text-decoration: none;
+    position: relative;
+}
+
+.button2S {
+    text-decoration: none;
+    background-color: #1a8504;
+    border-radius: 0.25rem;
+    color: white;
+    margin-left: 0.1rem;
+    font-size: 1.125rem;
+    height: 1.9375rem;
+    width: 35.5rem;
+    position: relative;
+}
+
+#banner-Sign {
+    margin-top: 7rem;
+    margin-left: 8rem;
+    width: 36rem;
+    height: 37rem;
+}
+
+/*--------------------------------------------------------------------Terms And Conditions--------------------------------------------------------------------*/
+.Terms {
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: 2.4rem;
+    position: relative;
+}
+
+#Ter {
+    margin-left: -5.8rem;
+    position: relative;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: -5.8rem;
+}
+
+#policy1 {
+    text-decoration: none;
+    color: #050605;
+    position: relative;
+}
+
+#T1 {
+    margin-top: 2.688rem;
+    color: forestgreen;
+}
+
+#T2 {
+    margin-top: 2.688rem;
+    color: forestgreen;
+    position: relative;
+}
+
+/*--------------------------------------------------------------------Privacy And Policy--------------------------------------------------------------------*/
+
+.Privacy {
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: 2.4rem;
+    position: relative;
+}
+
+#Pri {
+    margin-left: -5.8rem;
+    position: relative;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+    margin-right: -5.8rem;
+}
+
+#P1 {
+    margin-top: 2.688rem;
+    color: forestgreen;
+    position: relative;
+}
+
+#P2 {
+    margin-top: 2.688rem;
+    color: forestgreen;
+    position: relative;
+}
+
+
+/*--------------------------------------------------------------------Disclaimer--------------------------------------------------------------------*/
+
+.Disclaimer {
+    margin-left: 15rem;
+    margin-right: 15rem;
+    margin-top: 2.4rem;
+    position: relative;
+}
+
+#Dis {
+    margin-left: -5.8rem;
+    position: relative;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: -5.8rem;
+}
+
+#D1 {
+    margin-top: 2.688rem;
+    color: forestgreen;
+    position: relative;
+}
+
+#D2 {
+    margin-top: 2.688rem;
+    color: forestgreen;
+    position: relative;
+}
+
+
+/*--------------------------------------------------------------------Birthday--------------------------------------------------------------------*/
+
+/*----------Cakes----------*/
+#birthday1 {
+    text-decoration: none;
+    color: #050605;
+    position: relative;
+}
+
+#banner-c {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+
+/*----------Flowers----------*/
+#banner-f {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+
+/*----------Chocolaates----------*/
+
+#banner-c2 {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*--------------------------------------------------------------------Annivarsary--------------------------------------------------------------------*/
+
+/*----------Husband----------*/
+#banner-h {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*----------Wife----------*/
+#banner-w {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*----------Couples----------*/
+
+#banner-Cou {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*--------------------------------------------------------------------Boquets--------------------------------------------------------------------*/
+
+/*----------Rose----------*/
+#banner-r {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*----------Lavender----------*/
+#banner-l {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*--------------------------------------------------------------------Contact--------------------------------------------------------------------*/
+
+.contact {
+    margin-top: 20vh;
+    margin-left: 12vh;
+    position: relative;
+}
+
+#contact1 {
+    margin-bottom: 1rem !important;
+    margin-left: 49vh;
+    margin-right: 96vh;
+    width: 62vh;
+    height: 7vh;
+    position: relative;
+}
+
+#contactbutton {
+    margin-left: 49vh;
+    width: 128vh;
+    background-color: black;
+    border-color: transparent;
+    border-radius: 0;
+    position: relative;
+}
+
+#Inputmail1 {
+    height: 7vh;
+    width: 62vh;
+    margin-left: 49vh;
+    border-radius: 0px;
+    margin-left: 49vh;
+    position: relative;
+}
+
+#Inputtext1 {
+    border-radius: 0px;
+    height: 7vh;
+    position: relative;
+}
+
+#Inputtext2 {
+    margin-left: 66vh;
+    margin-top: -9.2vh;
+    border-radius: 0px;
+    width: 62vh;
+    height: 7vh;
+    position: relative;
+}
+
+#Inputnumber1 {
+    width: 62vh;
+    margin-left: 115vh;
+    margin-top: -9vh;
+    border-radius: 0px;
+    height: 7vh;
+    position: relative;
+}
+
+#desk {
+    height: 48vh;
+    width: 48vh;
+    position: relative;
+}
+
+#contactform {
+    margin-top: -44.6vh;
+    position: relative;
+}
+
+#Textarea1 {
+    width: 128vh;
+    height: 16vh;
+    margin-left: 49vh;
+    margin-bottom: 3vh;
+    border-radius: 0px;
+    position: relative;
+}
+
+/*--------------------------------------------------------------------Cakes--------------------------------------------------------------------*/
+
+/*----------Tuffle----------*/
+#banner-Tuf {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*----------Wife----------*/
+#banner-w {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*----------Couples----------*/
+
+#banner-Cou {
+    height: 33rem;
+    width: 93rem;
+    margin-top: 2.6rem;
+    margin-left: 1rem;
+    box-shadow: 0.0625rem 0.3125rem 0.75rem -0.25rem;
+    position: relative;
+}
+
+/*--------------------------------------------------------------------Modal--------------------------------------------------------------------*/
+
+#modal-b1 {
+    width: 13.4rem;
+    height: 2rem;
+    border-radius: 0.3rem;
+    background-color: #0061ff;
+    color: white;
+    font-weight: bold;
+    margin-top: 0.2rem;
+}
+
+#modal-b3 {
+    width: 21rem;
+    height: 3rem;
+    border-radius: 0.3rem;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+}
+
+#modal-img {
+    height: 20rem;
+    width: 20rem;
+}
+
+#modal-c {
+    width: 65rem;
+    margin-left: 29rem;
+}
+
+#modal-car {
+    margin-top: 2rem;
+}
